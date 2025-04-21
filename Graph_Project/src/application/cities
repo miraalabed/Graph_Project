@@ -1,0 +1,229 @@
+76,150
+center,0,0
+Doha,25.276987,51.520008
+Havana,23.1136,-82.3666
+Sydney,-33.8688,151.2093
+Antananarivo,-18.8792,47.5079
+Hong Kong,22.3193,114.1694
+Seoul,37.5665,126.9780
+Libreville,0.4167,9.45
+Stockholm,59.3293,18.0686
+Berlin,52.5200,13.4050
+Ankara,41.0082,28.9784
+Jakarta,-6.2088,106.8456
+Vladivostok,43.1155,131.8855
+Baghdad,33.3152,44.3661
+Tokyo,35.6762,139.6503
+Vienna,48.2082,16.3738
+Buenos Aires,-34.6037,-58.3816
+Moscow,55.7558,37.6173
+Muscat,23.5880,58.3829
+Morocco,31.7917,-7.0926
+Bogotá,4.7110,-74.0721
+Algiers,36.737232,3.086472
+Maputo,-25.9654,32.5892
+Lima,-12.0464,-77.0428
+Cairo,30.0444,31.2357
+Ottawa,45.4215,-75.6992
+Riyadh,24.7136,46.6753
+Addis Ababa,9.03,38.74
+Athens,37.9838,23.7275
+Reykjavik,64.1355,-21.8954
+Madrid,40.4168,-3.7038
+Canberra,-35.2809,149.1300
+Kampala,0.3136,32.5818
+Jeddah,21.2854,39.2376
+Milan,45.4642,9.1900
+Paris,48.8566,2.3522
+Tehran,35.6892,51.3890
+Johannesburg,-26.2041,28.0473
+Khartoum,15.5007,32.5599
+Windhoek,-22.5597,17.0832
+Mexico City,19.4326,-99.1332
+Lagos,6.5244,3.3792
+Brasilia,-15.7801,-47.9292
+Nairobi,-1.2867,36.8219
+Washington,38.9072,-77.0369
+Amsterdam,52.3676,4.9041
+Santiago,-33.4489,-70.6693
+Rabat,34.020882,-6.84165
+Ulaanbaatar,47.8864,106.9057
+Beijing,39.9042,116.4074
+Helsinki,60.1692,24.9402
+Lisbon,38.7169,-9.1395
+Accra,5.6037,-0.1870
+Rome,41.9028,12.4964
+N'Djamena,12.1348,15.0550
+Mogadishu,2.0469,45.3182
+Ljubljana,46.0511,14.5051
+Brussels,50.8503,4.3517
+Oslo,59.9127,10.7461
+Tunis,33.8869,9.5375
+Wellington,-41.2867,174.7762
+Pyongyang,39.0392,125.7625
+Beirut,33.8938,35.5018
+Amman,31.9454,35.9284
+Dubai,25.276987,55.296249
+Bogotá,4.7110,-74.0721
+Beijing,39.9042,116.4074
+Moscow,55.7558,37.6173
+Accra,5.6037,-0.1870
+Khartoum,15.5007,32.5599
+Athens,37.9838,23.7275
+London,51.5074,-0.1278
+New York,40.7128,-74.0060
+Bangkok,13.7563,100.5018
+Barcelona,41.3851,2.1734
+Dakar,14.6928,-17.4467
+
+Doha,Cairo,350$,180min
+Stockholm,Paris,200$,150min
+Jakarta,Tokyo,600$,420min
+Buenos Aires,Madrid,900$,720min
+Nairobi,Muscat,500$,330min
+Ottawa,Vienna,800$,510min
+Riyadh,Beirut,250$,120min
+Addis Ababa,Athens,425$,300min
+Lisbon,Accra,500$,270min
+Mexico City,Bogotá,400$,270min
+Beijing,Moscow,700$,480min
+Helsinki,Amsterdam,200$,150min
+Rome,Tunis,150$,90min
+Wellington,Canberra,250$,210min
+Pyongyang,Beijing,600$,90min
+Amman,Beirut,200$,60min
+Bogotá,Buenos Aires,600$,360min
+Beijing,Tokyo,500$,210min
+Moscow,Cairo,400$,270min
+Accra,Lagos,150$,60min
+Khartoum,Addis Ababa,250$,120min
+Athens,Vienna,150$,120min
+Rabat,Paris,200$,180min
+Ulaanbaatar,Beijing,350$,120min
+Beirut,Cairo,250$,90min
+Amman,Riyadh,300$,120min
+Nairobi,Addis Ababa,250$,120min
+Washington,Ottawa,250$,90min
+Amsterdam,Lisbon,200$,180min
+Santiago,Buenos Aires,250$,120min
+Mexico City,Ottawa,600$,300min
+Beijing,Bangkok,500$,300min
+Helsinki,Stockholm,150$,60min
+Lisbon,Barcelona,200$,90min
+Accra,Dakar,250$,150min
+Rome,Athens,200$,120min
+N'Djamena,Lagos,350$,90min
+Mogadishu,Nairobi,250$,90min
+Ljubljana,Brussels,200$,120min
+Oslo,Stockholm,150$,60min
+Tunis,Paris,200$,150min
+Wellington,Sydney,250$,210min
+Pyongyang,Vladivostok,500$,60min
+Beirut,Ankara,250$,90min
+Amman,Dubai,300$,180min
+Nairobi,Johannesburg,400$,240min
+Washington,London,800$,420min
+Amsterdam,Berlin,200$,90min
+Santiago,Lima,250$,210min
+Mexico City,Havana,350$,150min
+Beijing,Seoul,350$,120min
+Helsinki,Paris,350$,180min
+Santiago,Mexico City,700$,540min
+Rabat,Madrid,150$,90min
+Mogadishu,Addis Ababa,250$,120min
+Tunis,Athens,200$,150min
+Nairobi,Khartoum,250$,120min
+Buenos Aires,Santiago,350$,120min
+Beirut,Dubai,300$,180min
+Cairo,Rome,250$,180min
+Riyadh,Ankara,350$,240min
+Doha,Beirut,250$,120min
+Bogotá,Lima,350$,180min
+Paris,London,200$,90min
+Madrid,Lisbon,150$,90min
+Addis Ababa,Nairobi,250$,120min
+Mogadishu,Dubai,350$,240min
+Beijing,Hong Kong,500$,210min
+Bogotá,Mexico City,450$,240min
+Ottawa,Washington,250$,90min
+Rome,Paris,200$,120min
+Amsterdam,Brussels,150$,60min
+Rabat,Tunis,250$,120min
+Doha,Riyadh,200$,90min
+Nairobi,Johannesburg,400$,240min
+Mogadishu,Jeddah,300$,210min
+Madrid,Milan,200$,120min
+Mexico City,Buenos Aires,800$,480min
+Bogotá,Santiago,600$,360min
+Khartoum,Riyadh,250$,120min
+Ulaanbaatar,Tokyo,500$,240min
+Doha,Cairo,300$,180min
+Addis Ababa,Dubai,350$,240min
+Beirut,Jeddah,250$,120min
+N'Djamena,Khartoum,250$,90min
+Madrid,Amsterdam,200$,150min
+Buenos Aires,Mexico City,800$,540min
+Ankara,Athens,200$,90min
+Rome,Milan,150$,60min
+Addis Ababa,Cairo,350$,210min
+Doha,Ankara,350$,240min
+Doha,Milan,500$,360min
+Buenos Aires,Madrid,900$,720min
+Nairobi,Mogadishu,250$,90min
+Ottawa,London,800$,420min
+Beijing,Seoul,350$,120min
+Ankara,Tokyo,800$,660min
+Paris,Madrid,200$,120min
+Lisbon,Rome,200$,150min
+Buenos Aires,Santiago,250$,120min
+Addis Ababa,Mogadishu,250$,120min
+Madrid,Barcelona,150$,60min
+Rome,Athens,200$,120min
+Paris,Brussels,150$,90min
+Nairobi,Johannesburg,400$,240min
+Mogadishu,Addis Ababa,250$,120min
+Khartoum,Jeddah,250$,90min
+Doha,Riyadh,200$,90min
+Ottawa,Washington,250$,90min
+Bogotá,Lima,350$,180min
+Pyongyang,Beijing,600$,90min
+Lisbon,Accra,500$,270min
+Nairobi,Addis Ababa,250$,120min
+Madrid,London,200$,150min
+N'Djamena,Khartoum,250$,120min
+Khartoum,Cairo,250$,120min
+Doha,Beirut,250$,120min
+Mogadishu,Nairobi,250$,90min
+Buenos Aires,Mexico City,800$,480min
+Madrid,Lisbon,150$,90min
+Addis Ababa,Dubai,350$,240min
+Rome,Paris,200$,120min
+Ottawa,New York,250$,90min
+Pyongyang,Vladivostok,500$,60min
+Doha,Ankara,350$,240min
+Beijing,Tokyo,500$,210min
+Lisbon,Rome,200$,150min
+Mogadishu,Addis Ababa,250$,120min
+Ottawa,Washington,250$,90min
+Khartoum,Jeddah,250$,90min
+Madrid,Barcelona,150$,60min
+Paris,London,200$,90min
+Nairobi,Johannesburg,400$,240min
+Rome,Athens,200$,120min
+Ottawa,New York,250$,90min
+Pyongyang,Beijing,600$,90min
+Lisbon,Accra,500$,270min
+Addis Ababa,Mogadishu,250$,120min
+Khartoum,Cairo,250$,120min
+Madrid,Brussels,200$,150min
+Doha,Beirut,250$,120min
+Mogadishu,Nairobi,250$,90min
+Pyongyang,Vladivostok,500$,60min
+Ottawa,Washington,250$,90min
+Khartoum,Jeddah,250$,90min
+Buenos Aires,Madrid,900$,720min
+Mogadishu,Addis Ababa,250$,120min
+Doha,Riyadh,200$,90min
+Madrid,London,200$,120min
+Lisbon,Rome,200$,150min
+
