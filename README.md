@@ -1,4 +1,4 @@
-# Graph Shortest Path Visualizer (JavaFX)
+# Best travel route
 
 This project is a program written in **Java** with a **JavaFX** interface. It shows and calculates the shortest paths between cities using **Dijkstra's Algorithm**.
 
